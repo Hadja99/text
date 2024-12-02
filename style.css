@@ -1,0 +1,9 @@
+body{
+    display: flex;
+}
+section{
+    text-align: center;
+}
+header{
+    text-align: center;
+}
